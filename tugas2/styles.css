@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+form{
+    margin-left: 30%;
+}
+#npm,#nama{
+    width: 475px;
+    height: 17px;
+}
+#alamat{
+    width: 479px;
+}
+#ps{
+    width: 485px;
+    height: 20px;
+}
+button{
+    background-color: #1061fe;
+    color: white;
+    height: 30px;
+    border: 1;
+    border-radius: 4px;
+}
+label{
+    font-size: 14px;
+}
